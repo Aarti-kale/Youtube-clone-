@@ -1,3 +1,4 @@
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
@@ -61,3 +62,4 @@ React Router:
  
 Bootstrap:
  Utilized for styling and responsive design, providing a consistent and visually appealing layout.
+
